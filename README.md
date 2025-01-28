@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+# [Rock Paper Scissors Game](https://battleofhandss.netlify.app)
 
 This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaScript. In this game, you can play against the computer by selecting your move (rock, paper, or scissors). The computer randomly selects its move, and the winner is determined based on the classic rules of Rock Paper Scissors.
 
@@ -81,3 +81,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 You can customize the game by modifying the CSS to change the appearance of the elements or by adjusting the JavaScript code to alter the game logic. Additionally, you can prompt the user for a different number of attempts at the beginning of the game by adjusting the setAttempts function in the JavaScript code.
 
 Enjoy playing the game!
+
+## Author
+
+- **Name**: Rahul Tukaram Akhade
+
+## Usage
+
+To run the website locally, clone this repository and open the HTML files in your browser. Alternatively, you can visit [Rock Paper Scissors Game Website](https://battleofhandss.netlify.app) for a live preview.
